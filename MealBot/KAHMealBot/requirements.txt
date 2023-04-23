@@ -1,0 +1,5 @@
+neispy==4.0.0
+tweepy==4.2.0
+datetime
+apscheduler==3.7.0
+pytz
